@@ -17,6 +17,7 @@ body {
     flex-direction: column;
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: #f6ecfd;
 }
 
 nav {
@@ -54,9 +55,9 @@ nav ul li a:hover {
 
 .menu {
     position: relative;
-    font-size: 18px;
+    font-size: 18px; color: #ffffff;
     text-align: center;
-    background-color: #E3C1B4;
+    background-color: #5e464d;
     margin: 20px auto; /* Centrer horizontalement */
     border-radius: 0px;
     margin-top: 80px; /* Laissez de l'espace sous la navbar */
