@@ -36,7 +36,7 @@ body {
     height: 100%;
     width: 100%;
     font-family: Arial, sans-serif;
-    background-image: url(Virtual-Reality-Headset.png);
+    background-image: Virtual-Reality-Headset.png;
     background-size: cover;
     background-repeat: no-repeat; /* L'image ne se répète pas */
     min-height: 100vh;
