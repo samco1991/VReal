@@ -35,14 +35,15 @@ body {
     padding: 0;
     height: 100%;
     width: 100%;
-    font-family: Arial, sans-serif;
-    background-image: Virtual-Reality-Headset.png;
-    background-size: cover;
-    background-repeat: no-repeat; /* L'image ne se répète pas */
+    font-family: Arial, sans-serif; color: #ffff;
+    background-image: url('Photo/Virtual-Reality-Headset.png'); /* Chemin vers l'image */
+    background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Évite la répétition */
     min-height: 100vh;
     background-color: rgba(0, 0, 0, 0.5); /* Couche noire transparente */
     background-blend-mode: overlay;
-
+    
 }
 
 .main-content {
