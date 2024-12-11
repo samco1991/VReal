@@ -17,6 +17,7 @@ body {
   flex-direction: column;
   margin: 0;
   font-family: Arial, sans-serif;
+  background-color: #f6ecfd;
 }
 
 nav {
@@ -70,11 +71,11 @@ h2 {
     position: relative;
     /*top: 0;*/
     font-family: Arial, sans-serif;
-    font-size: 28px;
+    font-size: 28px; color: #ffffff;
     line-height: 2.5;   
     text-align: center;
     font-weight: bold;
-    background-color: #E3C1B4;
+    background-color: #5e464d;
     margin-top: 85px;
     width: 100%;
     
