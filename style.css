@@ -51,16 +51,6 @@ body {
     padding: 100px; /* Ajoute un espacement autour du contenu */
 }
 
-/* Main content image styling */
-main {
-    flex-grow: 1; /* Ensures it stretches to fill remaining space */
-}
-
-main .content-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
 
 /* Footer styling */
 footer {
